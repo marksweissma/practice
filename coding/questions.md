@@ -32,7 +32,8 @@ Manipulation
 
 
 
-## Scikit-learn style Transformers (can use numpy / pandas / other sk helpers that don't explicitly solve the problem):
+## Scikit-learn style Transformers
+(can use numpy / pandas / other sk helpers that don't explicitly solve the problem):
 
 Write your own (don't have to have all the options sklearn has):
 
