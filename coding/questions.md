@@ -1,4 +1,4 @@
-DS / Algs:
+## DS / Algs:
 (no - non standard libraries numpy/pandas etc.)
 
 For each solution, what are the space / time complexity. If you've made a trade off for one, how would you write the other. Is there a more optimal solution?
@@ -20,21 +20,23 @@ Window statistics
     Object comes with `get_mean` method to calculate the current mean
 
 
-Sampling:
+Sampling
 
     Write a function to return a value from a stream with equal likelihood of any seen number returning.
     The stream cannot fit in memory 
 
-Manipulation:
+Manipulation
 
-Transpose a 2d "matrix" (a list of lists input).
-Can you do it optimized for space (in place with only 1 free additional element for holding)
+    Transpose a 2d "matrix" (a list of lists input).
+    Can you do it optimized for space (in place with only 1 free additional element for holding)
 
-Scikit-learn style Transformers:
+
+
+## Scikit-learn style Transformers (can use numpy / pandas / other sk helpers that don't explicitly solve the problem):
 
 Write your own (don't have to have all the options sklearn has):
 
-1. Standard Scaler
-2. One Hot Encoder
-3. Logistic Regression
-4. Decision Tree Regressor
+    1. Standard Scaler
+    2. One Hot Encoder
+    3. Logistic Regression
+    4. Decision Tree Regressor
