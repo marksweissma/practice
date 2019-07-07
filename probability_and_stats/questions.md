@@ -10,10 +10,10 @@ How likely are you to get a ticket in a half an hour? Two hours?
 
 Experiment Evaluation:
 
-1. Version A of an advertisement sees A<sub>n</sub> and  A<sub>k</sub> clicks, andn version B sees B<sub>m</sub> and  B<sub>l</sub> clicks.
+1. Version A of an advertisement is seen by  A<sub>n</sub> viewers and  A<sub>k</sub> click through, and version B is seen by  B<sub>m</sub> viewers and has  B<sub>l</sub> click through.
 How do you compare them. What techniques can you use. What considerations do you need to make, what issues might there be in this dataset
 
-2. Your PM went and built 5 different versions and wants to test all of them. What techniques are available do this. Choose and discuss trade offs between them them
+2. Your PM went and built 5 different versions and wants to test all of them. What techniques are available do this. Choose and discuss trade offs between them
 
 
 Non technical
