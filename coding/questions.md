@@ -25,6 +25,10 @@ Sampling:
     Write a function to return a value from a stream with equal likelihood of any seen number returning.
     The stream cannot fit in memory 
 
+Manipulation:
+
+Transpose a 2d "matrix" (a list of lists input).
+Can you do it optimized for space (in place with only 1 free additional element for holding)
 
 Scikit-learn style Transformers:
 
