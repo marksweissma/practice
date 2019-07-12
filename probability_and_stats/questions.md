@@ -7,6 +7,7 @@ How likely are you to get a ticket in a half an hour? Two hours?
 
 2. You have a six sided die, but you need a seven sided die. How can you create D<sub>i</sub> from D<sub>j</sub>
 
+3. The birthday problem - how many people do you need in a room to have it more likely than not that two are born on the same day of the year
 
 Experiment Evaluation:
 

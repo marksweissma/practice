@@ -25,6 +25,10 @@ Sampling
     Write a function to return a value from a stream with equal likelihood of any seen number returning.
     The stream cannot fit in memory 
 
+Sorting:
+
+Implement two sorting algorithims of your choice (bubble sort doesn't count but you can still do it))
+
 Manipulation
 
     Transpose a 2d "matrix" (a list of lists input).
